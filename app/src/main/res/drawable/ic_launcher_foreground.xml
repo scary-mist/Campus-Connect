@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Campus Connect "C" letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22 C34.7,22 19,37.7 19,57 C19,76.3 34.7,92 54,92 C66.2,92 76.9,85.8 83,76.4 L70.8,69.2 C66.9,74.7 60.8,78.3 54,78.3 C42.3,78.3 32.7,68.7 32.7,57 C32.7,45.3 42.3,35.7 54,35.7 C60.7,35.7 66.7,39.2 70.6,44.5 L82.9,37.4 C76.8,27.8 66.1,22 54,22 Z" />
+
+    <!-- Yellow accent dot (top-right) drawn as a circular path -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M78,22 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0" />
+
+</vector>
