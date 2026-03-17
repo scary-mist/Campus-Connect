@@ -1,8 +1,8 @@
 # 🎓 Campus Connect
 
 A **campus social networking** Android app built with **Kotlin + Jetpack Compose** that combines:
-- **Happn-like proximity discovery** — discover students you cross paths with on campus
-- **LinkedIn-like posting** — share updates, achievements, and opportunities
+- **Proximity discovery** — discover students you cross paths with on campus
+- **Posting** — share updates, achievements, and opportunities
 - **Real-time chat** — message friends and connections
 - **Dual profiles** — social + professional information in one place
 
@@ -100,13 +100,3 @@ com.campusconnect/
 - Styled message bubbles (sent vs. received)
 - Auto-scroll to latest messages
 
-## 📖 Interview Prep
-
-See the [`interview-prep/`](./interview-prep/) folder for comprehensive documentation on:
-- System design decisions and trade-offs
-- Common interview questions about this project
-- Technical deep-dives into each feature
-
-## 📜 License
-
-This project is for educational and portfolio purposes.
