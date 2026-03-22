@@ -82,13 +82,13 @@ com.campusconnect/
 - **Professional tab**: Skills, projects, experience, LinkedIn/GitHub links
 - Edit all fields in a dedicated edit screen
 
-### 📍 Proximity Discovery (Happn-like)
+### 📍 Proximity Discovery 
 - Foreground service tracks location with geohash encoding
 - Detects when two users are within ~1.2km (campus range)
 - Shows crossing cards with "Wave 👋" action to send friend requests
 - Tracks crossing count and timestamps
 
-### 📝 Social Feed (LinkedIn-like)
+### 📝 Social Feed
 - Create posts with text, images, and tags
 - Like posts (with real-time count updates via Firestore transactions)
 - Comment system with nested sub-collection
